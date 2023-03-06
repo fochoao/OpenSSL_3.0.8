@@ -1,0 +1,134 @@
+asn1.c
+Nota: inclusi¢n del archivo: C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdio.h
+Nota: inclusi¢n del archivo:  C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt.h
+Nota: inclusi¢n del archivo:   C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\vcruntime.h
+Nota: inclusi¢n del archivo:    C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\sal.h
+Nota: inclusi¢n del archivo:     C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\concurrencysal.h
+Nota: inclusi¢n del archivo:    C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\vadefs.h
+Nota: inclusi¢n del archivo:  C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdio.h
+Nota: inclusi¢n del archivo:   C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_stdio_config.h
+Nota: inclusi¢n del archivo: C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\string.h
+Nota: inclusi¢n del archivo:  C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memory.h
+Nota: inclusi¢n del archivo:   C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_memcpy_s.h
+Nota: inclusi¢n del archivo:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\errno.h
+Nota: inclusi¢n del archivo:    C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\vcruntime_string.h
+Nota: inclusi¢n del archivo:  C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstring.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/asn1.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/macros.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/opensslconf.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/configuration.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/opensslv.h
+Nota: inclusi¢n del archivo:  C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\time.h
+Nota: inclusi¢n del archivo:   C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wtime.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/e_os2.h
+Nota: inclusi¢n del archivo:   C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\stdint.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/bio.h
+Nota: inclusi¢n del archivo:   C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\stdarg.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/crypto.h
+Nota: inclusi¢n del archivo:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stdlib.h
+Nota: inclusi¢n del archivo:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_malloc.h
+Nota: inclusi¢n del archivo:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_search.h
+Nota: inclusi¢n del archivo:      C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\stddef.h
+Nota: inclusi¢n del archivo:     C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\corecrt_wstdlib.h
+Nota: inclusi¢n del archivo:     C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.33.31629\include\limits.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/safestack.h
+Nota: inclusi¢n del archivo:     C:\openssl-3.0.8\include\openssl/stack.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/types.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/cryptoerr.h
+Nota: inclusi¢n del archivo:     C:\openssl-3.0.8\include\openssl/symhacks.h
+Nota: inclusi¢n del archivo:     C:\openssl-3.0.8\include\openssl/cryptoerr_legacy.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/core.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/bioerr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/asn1err.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/bn.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/bnerr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/asn1t.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/dh.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/dherr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/dsa.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/dsaerr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/ec.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/ecerr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/params.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/ocsp.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/http.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/conf.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/lhash.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/conferr.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/conftypes.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/x509.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/buffer.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/buffererr.h
+Nota: inclusi¢n del archivo:    C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt\sys/types.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/evp.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/core_dispatch.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/evperr.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/objects.h
+Nota: inclusi¢n del archivo:     C:\openssl-3.0.8\include\openssl/obj_mac.h
+Nota: inclusi¢n del archivo:     C:\openssl-3.0.8\include\openssl/objectserr.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/rsa.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/rsaerr.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/sha.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/x509err.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/x509_vfy.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/pkcs7.h
+Nota: inclusi¢n del archivo:    C:\openssl-3.0.8\include\openssl/pkcs7err.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/x509v3.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/x509v3err.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/ocsperr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/pkcs12.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/pkcs12err.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/ts.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/tserr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/ess.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/esserr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/cms.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/cmserr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/err.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/rand.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/randerr.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\openssl/ssl.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/comp.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/comperr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/pem.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/pemerr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/hmac.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/async.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/asyncerr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/ct.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/cterr.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/sslerr.h
+Nota: inclusi¢n del archivo:   C:\openssl-3.0.8\include\openssl/sslerr_legacy.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/prov_ssl.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/ssl2.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/ssl3.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/tls1.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/dtls1.h
+Nota: inclusi¢n del archivo:  C:\openssl-3.0.8\include\openssl/srtp.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\include\internal/nelem.h
+Nota: inclusi¢n del archivo: C:\openssl-3.0.8\fuzz\fuzzer.h
+fuzz\asn1.c(312): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(328): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(329): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(330): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(331): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(332): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(333): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(335): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(336): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(337): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(338): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(339): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(341): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(342): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(345): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(347): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(348): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(349): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(353): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(357): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(358): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(359): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(360): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(363): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
+fuzz\asn1.c(364): warning C4267: 'funci¢n': conversi¢n de 'size_t' a 'long'; posible p‚rdida de datos
